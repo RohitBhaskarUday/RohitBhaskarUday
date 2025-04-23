@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rohit Bhaskar Uday 👋
 
-<!--
-**RohitBhaskarUday/RohitBhaskarUday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Master's student in Computer Science at California State University, Fullerton (Graduating May 2025)
+- 💻 2 years of experience as a Java Developer at Tata Consultancy Services
+- 🌱 Currently learning Spring Boot, Vert.x, and Cloud technologies (AWS)
+- ⚡ Passionate about building meaningful backend systems that make a difference
+- 🛠️ Exploring Data Pipelines, Reactive Programming, and AI/LLM integrations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL, Python (Basics)
+- **Backend:** Spring Boot, JDBC, Servlets, JSP
+- **Databases:** MySQL, PostgreSQL
+- **Cloud:** AWS (S3, EC2, RDS basics)
+- **Tools:** Git, Maven, Docker
+- **Learning:** Kafka, Vert.x, Spring Batch
