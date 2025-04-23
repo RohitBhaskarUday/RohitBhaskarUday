@@ -8,8 +8,8 @@
 - 🛠️ Exploring Data Pipelines, Reactive Programming, and AI/LLM integrations
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, SQL, Python (Basics)
-- **Backend:** Spring Boot, JDBC, Servlets, JSP
+- **Languages:** Java, SQL, Python, C/C++
+- **Backend:** Spring Boot, JPA, Hibernate, JDBC, Servlets, JSP
 - **Databases:** MySQL, PostgreSQL
 - **Cloud:** AWS (S3, EC2, RDS basics)
 - **Tools:** Git, Maven, Docker
