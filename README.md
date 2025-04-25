@@ -14,3 +14,5 @@
 - **Cloud:** AWS (S3, EC2, RDS basics)
 - **Tools:** Git, Maven, Docker
 - **Learning:** Kafka, Vert.x, Spring Batch
+
+![](https://komarev.com/ghpvc/?RohitBhaskarUday&color=green)
